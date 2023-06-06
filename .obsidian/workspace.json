@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leveraging Pupil Dilation Measures for Understanding Users' Cognitive Load During Visualization Processing.md",
+                "file": "Cognitive Load during Eye-typing.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,11 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea0edde0fb4c8a3a",
+  "active": "83b13834c3f34a22",
   "lastOpenFiles": [
     "Leveraging Pupil Dilation Measures for Understanding Users' Cognitive Load During Visualization Processing.md",
     "Cognitive Load during Eye-typing.md",
-    "_Assets/Cognitive Load druing Eye-typing.pdf",
+    "_Assets/Cognitive Load duringEye-typing.pdf",
     "_Assets/Nicht bestätigt 942739.crdownload",
     "_Assets/Leveraging Pupil Dilation Measures.pdf",
     "_Assets",
