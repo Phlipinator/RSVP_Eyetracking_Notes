@@ -11,16 +11,14 @@
             "id": "83b13834c3f34a22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Cognitive Load during Eye-typing.md",
-                "mode": "source",
-                "source": false
+                "file": "_Assets/Measuring Cognitive Load.pdf"
               }
             }
           },
           {
-            "id": "0238f136d686f9cc",
+            "id": "ea0edde0fb4c8a3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +30,12 @@
             }
           },
           {
-            "id": "192a97a332454686",
+            "id": "1c7c949cc5a14595",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Measuring Cognitive Load using Eye Tracking Technology in Visual Computing.md",
+                "file": "Pupil Dilation as an Indicator of Cognitive Workload in Human-Computer Interaction.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Measuring Cognitive Load using Eye Tracking Technology in Visual Computing.md",
+                "file": "Pupil Dilation as an Indicator of Cognitive Workload in Human-Computer Interaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Measuring Cognitive Load using Eye Tracking Technology in Visual Computing.md",
+                "file": "Pupil Dilation as an Indicator of Cognitive Workload in Human-Computer Interaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Measuring Cognitive Load using Eye Tracking Technology in Visual Computing.md"
+                "file": "Pupil Dilation as an Indicator of Cognitive Workload in Human-Computer Interaction.md"
               }
             }
           }
@@ -171,13 +169,18 @@
       "templates:Insert template": false
     }
   },
-  "active": "192a97a332454686",
+  "active": "1c7c949cc5a14595",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Templates/Title.md",
-    "Leveraging Pupil Dilation Measures for Understanding Users' Cognitive Load During Visualization Processing.md",
-    "Cognitive Load during Eye-typing.md",
     "Measuring Cognitive Load using Eye Tracking Technology in Visual Computing.md",
+    "Pupil Dilation as an Indicator of Cognitive Workload in Human-Computer Interaction.md",
+    "_Assets/Pupil Dilation as an Indicator of Cognitive Workload.pdf",
+    "_Assets/Nicht bestätigt 956564.crdownload",
+    "Cognitive Load during Eye-typing.md",
+    "_Assets/Measuring Cognitive Load.pdf",
+    "_Assets/Nicht bestätigt 130833.crdownload",
+    "Leveraging Pupil Dilation Measures for Understanding Users' Cognitive Load During Visualization Processing.md",
+    "Templates/Title.md",
+    "Templates",
     "_Assets/Cognitive Load duringEye-typing.pdf",
     "_Assets/Nicht bestätigt 942739.crdownload",
     "_Assets/Leveraging Pupil Dilation Measures.pdf",
