@@ -5,7 +5,7 @@
 ## Interesting Quotes ##
 - 
 
-## Interesting Relates Work ##
+## Interesting Related Work ##
 - 
 
 [Full Paper]() ![[]]
