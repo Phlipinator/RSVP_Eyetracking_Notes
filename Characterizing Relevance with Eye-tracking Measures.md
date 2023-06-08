@@ -1,4 +1,4 @@
-#paper #todo 
+#paper
 Found through [[True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study]]
 
 ## Short Summary ##
