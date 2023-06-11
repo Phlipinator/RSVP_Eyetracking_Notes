@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea908c05e7eb0191",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "183c35a123c97fb1",
+            "id": "5df66e669f4c6e0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Measuring linguistically-induced cognitive load during driving using the ConTRe task.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f31555969c5d3c3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md",
+                "file": "Pupil Dilation Fulfills the Requirements for Dynamic Difficulty Adjustment in Gaming on the Example of Pong.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md",
+                "file": "Pupil Dilation Fulfills the Requirements for Dynamic Difficulty Adjustment in Gaming on the Example of Pong.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md",
+                "file": "Pupil Dilation Fulfills the Requirements for Dynamic Difficulty Adjustment in Gaming on the Example of Pong.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md"
+                "file": "Pupil Dilation Fulfills the Requirements for Dynamic Difficulty Adjustment in Gaming on the Example of Pong.md"
               }
             }
           }
@@ -167,33 +146,35 @@
       "templates:Insert template": false
     }
   },
-  "active": "f31555969c5d3c3c",
+  "active": "5df66e669f4c6e0c",
   "lastOpenFiles": [
+    "The Index of Pupillary Activity_Measuring Cognitive Load vis-à-vis Task Difficulty with Pupil Oscillation.md",
+    "The index of cognitive activity_Measuring cognitive workload.md",
+    "Pupil Dilation Fulfills the Requirements for Dynamic Difficulty Adjustment in Gaming on the Example of Pong.md",
+    "_Assets/Pupil Dilation Fulfills the Requirements for Dynamic Difficulty.pdf",
+    "_Assets/Nicht bestätigt 133139.crdownload",
+    "_Assets/The index of cognitive activity.pdf",
+    "One threshold to rule them all_Modification of the Index of Pupillary Activity to optimize the indication of cognitive load.md",
+    "True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study.md",
+    "_Assets/The Index of Pupillary Activity.pdf",
+    "_Assets/Nicht bestätigt 673819.crdownload",
+    "_Assets/One threshold to rule them all.pdf",
+    "_Assets/3379156.3391341.pdf",
+    "_Assets/Nicht bestätigt 266912.crdownload",
+    "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md",
+    "Demonstrator for Extracting Cognitive Load from Pupil Dilation for Attention Management Services.md",
+    "Cognitive Load during Eye-typing.md",
+    "Characterizing Relevance with Eye-tracking Measures.md",
+    "Search Strings.md",
     "_Assets/Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.pdf",
     "_Assets/Nicht bestätigt 966340.crdownload",
     "Measuring linguistically-induced cognitive load during driving using the ConTRe task.md",
-    "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md",
-    "_Assets/Measuring linguistically-induced cognitive load during driving using the ConTRe task.pdf",
-    "_Assets/Nicht bestätigt 981108.crdownload",
-    "Search Strings.md",
     "Templates/Paper Template.md",
-    "True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study.md",
-    "The index of cognitive activity_Measuring cognitive workload.md",
     "Pupil Dilation as an Indicator of Cognitive Workload in Human-Computer Interaction.md",
     "Measuring the impact of subtitles on cognitive load_eye tracking and dynamic audiovisual texts.md",
     "Measuring Cognitive Load using Eye Tracking Technology in Visual Computing.md",
     "Leveraging Pupil Dilation Measures for Understanding Users' Cognitive Load During Visualization Processing.md",
     "Eye tracking cognitive load using pupil diameter and microsaccades with fixed gaze.md",
-    "Demonstrator for Extracting Cognitive Load from Pupil Dilation for Attention Management Services.md",
-    "Cognitive Load during Eye-typing.md",
-    "Characterizing Relevance with Eye-tracking Measures.md",
-    "_Assets/The index of cognitive activity.pdf",
-    "_Assets/Characterizing Relevance with Eye-tracking Measures.pdf",
-    "_Assets/Nicht bestätigt 857291.crdownload",
-    "_Assets/Eye tracking cognitive load using pupil diameter.pdf",
-    "_Assets/Nicht bestätigt 136873.crdownload",
-    "_Assets/Measuring the impact of subtitles on cognitive load.pdf",
-    "_Assets/Nicht bestätigt 565834.crdownload",
     "().md",
     "Templates/Title.md"
   ]
