@@ -8,12 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5df66e669f4c6e0c",
+            "id": "123aac03e9d25b32",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6299fb5a6e4064da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pupil Dilation Fulfills the Requirements for Dynamic Difficulty Adjustment in Gaming on the Example of Pong.md",
+                "file": "Safe and sensible preprocessing and baseline correction of pupil-size data.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pupil Dilation Fulfills the Requirements for Dynamic Difficulty Adjustment in Gaming on the Example of Pong.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pupil Dilation Fulfills the Requirements for Dynamic Difficulty Adjustment in Gaming on the Example of Pong.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pupil Dilation Fulfills the Requirements for Dynamic Difficulty Adjustment in Gaming on the Example of Pong.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,28 +150,33 @@
       "templates:Insert template": false
     }
   },
-  "active": "5df66e669f4c6e0c",
+  "active": "123aac03e9d25b32",
   "lastOpenFiles": [
+    "Safe and sensible preprocessing and baseline correction of pupil-size data.md",
+    "Preprocessing pupil size data_Guidelines and code.md",
+    "_Assets/Safe and sensible preprocessing and baseline correction of pupil-size data.pdf",
+    "Predicting Cognitive Load in an Emergency Simulation Based on Behavioral and Physiological Measures.md",
+    "_Assets/Predicting Cognitive Load in an Emergency Simulation.pdf",
+    "_Assets/Nicht bestätigt 910892.crdownload",
+    "Measuring Cognitive Load_Heart-rate Variability and Pupillometry Assessment.md",
+    "Beyond Gaze_Preliminary Analysis of Pupil Dilation and Blink Rates in an fMRI Study of Program Comprehension.md",
+    "_Assets/Preprocessing pupil size data.pdf",
+    "_Assets/Measuring Cognitive Load_Heart-rate Variability and Pupillometry Assessment.pdf",
+    "_Assets/Nicht bestätigt 211480.crdownload",
+    "_Assets/Beyond Gaze.pdf",
+    "_Assets/Nicht bestätigt 135633.crdownload",
+    "_Assets/True or false Cognitive load when reading COVID-19 news headlines.pdf",
+    "_Assets/The Index of Pupillary Activity.pdf",
+    "Cognitive Load during Eye-typing.md",
+    "Search Strings.md",
+    "Pupil Dilation Fulfills the Requirements for Dynamic Difficulty Adjustment in Gaming on the Example of Pong.md",
     "The Index of Pupillary Activity_Measuring Cognitive Load vis-à-vis Task Difficulty with Pupil Oscillation.md",
     "The index of cognitive activity_Measuring cognitive workload.md",
-    "Pupil Dilation Fulfills the Requirements for Dynamic Difficulty Adjustment in Gaming on the Example of Pong.md",
-    "_Assets/Pupil Dilation Fulfills the Requirements for Dynamic Difficulty.pdf",
-    "_Assets/Nicht bestätigt 133139.crdownload",
-    "_Assets/The index of cognitive activity.pdf",
     "One threshold to rule them all_Modification of the Index of Pupillary Activity to optimize the indication of cognitive load.md",
     "True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study.md",
-    "_Assets/The Index of Pupillary Activity.pdf",
-    "_Assets/Nicht bestätigt 673819.crdownload",
-    "_Assets/One threshold to rule them all.pdf",
-    "_Assets/3379156.3391341.pdf",
-    "_Assets/Nicht bestätigt 266912.crdownload",
     "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md",
     "Demonstrator for Extracting Cognitive Load from Pupil Dilation for Attention Management Services.md",
-    "Cognitive Load during Eye-typing.md",
     "Characterizing Relevance with Eye-tracking Measures.md",
-    "Search Strings.md",
-    "_Assets/Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.pdf",
-    "_Assets/Nicht bestätigt 966340.crdownload",
     "Measuring linguistically-induced cognitive load during driving using the ConTRe task.md",
     "Templates/Paper Template.md",
     "Pupil Dilation as an Indicator of Cognitive Workload in Human-Computer Interaction.md",
