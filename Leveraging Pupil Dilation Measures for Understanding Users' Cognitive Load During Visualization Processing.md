@@ -1,10 +1,9 @@
-#paper
+#paper #feasible 
 
 ## Short Summary ##
 The paper presents a study, in which users are shown bar graphs, which get altered for easier understanding using a couple of different techniques. During the experiment the pupil diameter of the users is recorded.
-The experiment was conducted in a a "windowless room with uniform lighting" and to account for physiological differences between users, a baseline pupil-size is collected.
-
-*Two approaches on how to measure the baseline are described.*
+The experiment was conducted in a "windowless room with uniform lighting" and to account for physiological differences between users, a baseline pupil-size is collected.
+*The approach to measure the baseline for pupil dilation seems to be simple and very similar to the technique used in [[Safe and sensible preprocessing and baseline correction of pupil-size data]]*
 
 ## Interesting Quotes ##
 - "The long term goal of our research is to design user-adaptive visualizations that can support users based on their individual needs."

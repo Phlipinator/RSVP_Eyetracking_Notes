@@ -1,8 +1,8 @@
 #paper
 
 ## Short Summary ##
-A study is presented in which participants are presented with different news-headlines regarding the COVID-19 pandemic inside of a fact-checking system.  Cognitive load is measured using pupil diameter.
-*A detailed description on how the base-value for measuring pupil diameter was found.*
+A study is presented in which participants are presented with different news-headlines regarding the COVID-19 pandemic inside of a fact-checking system. Cognitive load is measured using pupil diameter.
+*The average PD during the whole experiment is used as a relative baseline. Because the calculation needs to be done in real-time, this approach is not feasible. However the basic idea is similar to the concept described in [[Safe and sensible preprocessing and baseline correction of pupil-size data]].*
 
 ## Interesting Quotes ##
 - "To mitigate the effect of background luminance of pupil dilation, the color and luminance of the fact-checking-system interface was kept constant during the experimental session."

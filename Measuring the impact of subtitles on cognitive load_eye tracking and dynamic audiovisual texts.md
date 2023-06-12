@@ -3,7 +3,7 @@ Found through [[True or false Cognitive load when reading COVID-19 news headline
 
 ## Short Summary ##
 The paper is testing the hypothesis, that subtitles increase cognitive load by presenting students with recorded academic lectures with or without subtitles while measuring CG (through eye tracking, EEG and self reported measures).
-*A detailed description on how the PD baseline as collected is provided.*
+*The average PD during the reading of the experiment page is used as a relative baseline for PD. This is a similar approach to [[Safe and sensible preprocessing and baseline correction of pupil-size data]], but  the latter is to be preferred because there are less factors that could potentially have an influence on CL*
 
 ## Interesting Quotes ##
 - "A more stable data source for this context is pupil dilation, making it possible to determine the percentage change in pupil diameter (PCPD). PCPD can be categorised as an objective direct measure of CL"

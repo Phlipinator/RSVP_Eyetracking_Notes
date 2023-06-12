@@ -1,7 +1,7 @@
 #paper 
 
 ## Short Summary ##
-A demonstrator is built which visualizes pupil dilation and cognitive load in real time. There is however no information about how the baseline for the pupil dilation is measured, instead a real-world camera measures illumination and the calculation compensates for that value.
+A demonstrator is built which visualizes pupil dilation and cognitive load in real time. *There is however no information about how the baseline for the pupil dilation is measured, instead a real-world camera measures illumination and the calculation compensates for that value.*
 
 ## Interesting Quotes ##
 - "As the pupil diameter is not under voluntary control, it represents a promising indicator and psychological reporter variable of internal cognitive processes."

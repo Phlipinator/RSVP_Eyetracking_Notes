@@ -1,7 +1,7 @@
 #paper 
 
 ## Short Summary ##
-The Index of pupillary activity (ICA) is documented and "the algorithm should be validated with external criteria that are known to be related to cognitive demand, such as task difficulty".
+The Index of pupillary activity (ICA) is documented and "the algorithm (...) *is* validated with external criteria that are known to be related to cognitive demand, such as task difficulty".
 *This paper describes an interesting alternative way on how to derive CL from pupil activity, however the measurement of the described peaks could be harder to archive than normal measurements of dilation.*
 
 ## Interesting Quotes ##

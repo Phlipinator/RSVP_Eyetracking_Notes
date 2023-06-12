@@ -3,7 +3,7 @@ Found through [[True or false Cognitive load when reading COVID-19 news headline
 
 ## Short Summary ##
 A comparison between microsaccades and pupil diameter as measurements for cognitive load is presented.
-*The approach on how to retrieve the baseline for pupil dilation is well documented*
+*The approach on how to retrieve the baseline for pupil dilation is well documented, however it seems to bee too complicated for real-time calculation.*
 
 ## Interesting Quotes ##
 -  "we compare microsaccadic metrics to measures of pupil diameter, namely the averaged difference in pupil diameter with respect to inter- or intra-trial (averaged) baseline."

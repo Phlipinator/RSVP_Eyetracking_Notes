@@ -2,7 +2,8 @@
 
 ## Short Summary ##
 In this paper a study is described where CL is measured via eye-tracking to modify the  difficulty of a pong game in real time. 
-The paper serves as a demonstration of the usefulness of CL-estimation with pupil-dilation for real-time applications -> RSVP.
+*The paper serves as a demonstration of the usefulness of CL-estimation with pupil-dilation for real-time applications -> RSVP.*
+*There is no real description of how the baseline was calculated other than "pupil diameter was z-standardized within participants across the difficulty levels for further analyses."*
 
 ## Interesting Quotes ##
 - "findings demonstrate the usefulness of pupil diameter as basis for psychophysiologically dynamic difficulty adjustment as it is sensitive both to under- and overload, hence underlining pupil dilation’s potential value for user-adaptive interfaces in general."
