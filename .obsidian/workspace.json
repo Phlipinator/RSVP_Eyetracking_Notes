@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md",
+                "file": "Leveraging Pupil Dilation Measures for Understanding Users' Cognitive Load During Visualization Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd863361ae51945d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Measuring Cognitive Load using Eye Tracking Technology in Visual Computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md",
+                "file": "Measuring Cognitive Load using Eye Tracking Technology in Visual Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md",
+                "file": "Measuring Cognitive Load using Eye Tracking Technology in Visual Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md"
+                "file": "Measuring Cognitive Load using Eye Tracking Technology in Visual Computing.md"
               }
             }
           }
@@ -167,10 +179,22 @@
       "templates:Insert template": false
     }
   },
-  "active": "9feb2f339c05cd03",
+  "active": "cd863361ae51945d",
   "lastOpenFiles": [
-    "Sympathetic and parasympathetic innervation of pupillary dilation during sustained processing.md",
+    "Leveraging Pupil Dilation Measures for Understanding Users' Cognitive Load During Visualization Processing.md",
+    "Eye tracking cognitive load using pupil diameter and microsaccades with fixed gaze.md",
     "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md",
+    "Measuring Cognitive Load using Eye Tracking Technology in Visual Computing.md",
+    "Measuring Cognitive Load_Heart-rate Variability and Pupillometry Assessment.md",
+    "Measuring linguistically-induced cognitive load during driving using the ConTRe task.md",
+    "Measuring the impact of subtitles on cognitive load_eye tracking and dynamic audiovisual texts.md",
+    "Towards an Index of Opportunity_Understanding Changes in Mental Workload during Task Execution.md",
+    "_Assets/Towards an Index of Opportunity.pdf",
+    "_Assets/Nicht bestätigt 502719.crdownload",
+    "One threshold to rule them all_Modification of the Index of Pupillary Activity to optimize the indication of cognitive load.md",
+    "Predicting Cognitive Load in an Emergency Simulation Based on Behavioral and Physiological Measures.md",
+    "Preprocessing pupil size data_Guidelines and code.md",
+    "Sympathetic and parasympathetic innervation of pupillary dilation during sustained processing.md",
     "Characterizing Relevance with Eye-tracking Measures.md",
     "_Assets/Sympathetic and parasympathetic innervation of pupillary dilation.pdf",
     "_Assets/Nicht bestätigt 667724.crdownload",
@@ -183,16 +207,7 @@
     "The index of cognitive activity_Measuring cognitive workload.md",
     "Safe and sensible preprocessing and baseline correction of pupil-size data.md",
     "Pupil Dilation Fulfills the Requirements for Dynamic Difficulty Adjustment in Gaming on the Example of Pong.md",
-    "Measuring the impact of subtitles on cognitive load_eye tracking and dynamic audiovisual texts.md",
     "Pupil Dilation as an Indicator of Cognitive Workload in Human-Computer Interaction.md",
-    "Preprocessing pupil size data_Guidelines and code.md",
-    "Predicting Cognitive Load in an Emergency Simulation Based on Behavioral and Physiological Measures.md",
-    "One threshold to rule them all_Modification of the Index of Pupillary Activity to optimize the indication of cognitive load.md",
-    "Measuring linguistically-induced cognitive load during driving using the ConTRe task.md",
-    "Measuring Cognitive Load_Heart-rate Variability and Pupillometry Assessment.md",
-    "Measuring Cognitive Load using Eye Tracking Technology in Visual Computing.md",
-    "Leveraging Pupil Dilation Measures for Understanding Users' Cognitive Load During Visualization Processing.md",
-    "Eye tracking cognitive load using pupil diameter and microsaccades with fixed gaze.md",
     "Beyond Gaze_Preliminary Analysis of Pupil Dilation and Blink Rates in an fMRI Study of Program Comprehension.md",
     "_Assets/Pupillary Response Based Cognitive Workload.pdf",
     "_Assets/Nicht bestätigt 136843.crdownload",
@@ -200,9 +215,6 @@
     "_Assets/Nicht bestätigt 770117.crdownload",
     "_Assets/Safe and sensible preprocessing and baseline correction of pupil-size data.pdf",
     "_Assets/Predicting Cognitive Load in an Emergency Simulation.pdf",
-    "_Assets/Nicht bestätigt 910892.crdownload",
-    "_Assets/Preprocessing pupil size data.pdf",
-    "Search Strings.md",
-    "Templates/Paper Template.md"
+    "Search Strings.md"
   ]
 }

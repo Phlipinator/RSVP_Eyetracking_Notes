@@ -14,6 +14,8 @@ The experiment was conducted in a "windowless room with uniform lighting" and to
 
 ## Interesting Related Work ##
 - Iqbal, S.T. et al. 2005. Towards an index of opportunity: understanding changes in mental workload during task execution. (2005), 311.
+  *-> checked and integrated*
 - Martínez-Gómez, P. and Aizawa, A. 2014. Recognition of understanding level and language skill using measurements of reading behavior. (2014), 95–104
+  *-> no focus on pupil dilation, but rather all kinds of eye related measurements*
 
 [Full paper](https://dl.acm.org/doi/10.1145/3099023.3099059) ![[Leveraging Pupil Dilation Measures.pdf]]
