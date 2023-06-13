@@ -8,38 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "123aac03e9d25b32",
+            "id": "d19ea0b47c30b4fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study.md",
+                "file": "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6299fb5a6e4064da",
+            "id": "9feb2f339c05cd03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Safe and sensible preprocessing and baseline correction of pupil-size data.md",
+                "file": "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5d34987bd9834a83",
+            "id": "e21e0d87852d95ff",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#feasable",
+                "query": "tag:#averageOverAll",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study.md",
+                "file": "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study.md",
+                "file": "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study.md"
+                "file": "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md"
               }
             }
           }
@@ -166,41 +167,42 @@
       "templates:Insert template": false
     }
   },
-  "active": "123aac03e9d25b32",
+  "active": "9feb2f339c05cd03",
   "lastOpenFiles": [
+    "Sympathetic and parasympathetic innervation of pupillary dilation during sustained processing.md",
+    "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md",
+    "Characterizing Relevance with Eye-tracking Measures.md",
+    "_Assets/Sympathetic and parasympathetic innervation of pupillary dilation.pdf",
+    "_Assets/Nicht bestätigt 667724.crdownload",
+    "Cognitive Load during Eye-typing.md",
+    "Demonstrator for Extracting Cognitive Load from Pupil Dilation for Attention Management Services.md",
+    "Discriminating the Relevance of Web Search Results with Measures of Pupil Size.md",
+    "Pupillary Response Based Cognitive Workload Measurement under Luminance Changes.md",
+    "True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study.md",
     "The Index of Pupillary Activity_Measuring Cognitive Load vis-à-vis Task Difficulty with Pupil Oscillation.md",
     "The index of cognitive activity_Measuring cognitive workload.md",
     "Safe and sensible preprocessing and baseline correction of pupil-size data.md",
     "Pupil Dilation Fulfills the Requirements for Dynamic Difficulty Adjustment in Gaming on the Example of Pong.md",
+    "Measuring the impact of subtitles on cognitive load_eye tracking and dynamic audiovisual texts.md",
     "Pupil Dilation as an Indicator of Cognitive Workload in Human-Computer Interaction.md",
     "Preprocessing pupil size data_Guidelines and code.md",
     "Predicting Cognitive Load in an Emergency Simulation Based on Behavioral and Physiological Measures.md",
     "One threshold to rule them all_Modification of the Index of Pupillary Activity to optimize the indication of cognitive load.md",
-    "Measuring the impact of subtitles on cognitive load_eye tracking and dynamic audiovisual texts.md",
     "Measuring linguistically-induced cognitive load during driving using the ConTRe task.md",
     "Measuring Cognitive Load_Heart-rate Variability and Pupillometry Assessment.md",
     "Measuring Cognitive Load using Eye Tracking Technology in Visual Computing.md",
     "Leveraging Pupil Dilation Measures for Understanding Users' Cognitive Load During Visualization Processing.md",
     "Eye tracking cognitive load using pupil diameter and microsaccades with fixed gaze.md",
-    "Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md",
-    "Demonstrator for Extracting Cognitive Load from Pupil Dilation for Attention Management Services.md",
-    "Cognitive Load during Eye-typing.md",
-    "Characterizing Relevance with Eye-tracking Measures.md",
     "Beyond Gaze_Preliminary Analysis of Pupil Dilation and Blink Rates in an fMRI Study of Program Comprehension.md",
+    "_Assets/Pupillary Response Based Cognitive Workload.pdf",
+    "_Assets/Nicht bestätigt 136843.crdownload",
+    "_Assets/Discriminating the Relevance of Web Search Results.pdf",
+    "_Assets/Nicht bestätigt 770117.crdownload",
     "_Assets/Safe and sensible preprocessing and baseline correction of pupil-size data.pdf",
     "_Assets/Predicting Cognitive Load in an Emergency Simulation.pdf",
     "_Assets/Nicht bestätigt 910892.crdownload",
     "_Assets/Preprocessing pupil size data.pdf",
-    "_Assets/Measuring Cognitive Load_Heart-rate Variability and Pupillometry Assessment.pdf",
-    "_Assets/Nicht bestätigt 211480.crdownload",
-    "_Assets/Beyond Gaze.pdf",
-    "_Assets/Nicht bestätigt 135633.crdownload",
-    "_Assets/True or false Cognitive load when reading COVID-19 news headlines.pdf",
-    "_Assets/The Index of Pupillary Activity.pdf",
     "Search Strings.md",
-    "True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study.md",
-    "Templates/Paper Template.md",
-    "().md",
-    "Templates/Title.md"
+    "Templates/Paper Template.md"
   ]
 }

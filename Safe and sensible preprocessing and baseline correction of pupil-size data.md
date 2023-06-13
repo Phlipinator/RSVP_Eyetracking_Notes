@@ -1,9 +1,9 @@
-#paper #promising #feasible
+#paper #promising #feasible #filteringAndAnalyzing #averageOverTraining 
 Found through [[Preprocessing pupil size data_Guidelines and code]]
 
 ## Short Summary ##
 The paper provides detailed instructions on how a baseline-correction can be applied to pupil-diameter-data. Different approaches of baseline-correction are shown (divisive and subtractive).
-In addition to the papers focus (baseline-correction), instructions on how to prepossess pupil-dilation-data are also provided.
+*In addition to the papers focus (baseline-correction), instructions on how to prepossess pupil-dilation-data are also provided.*
 
 ## Interesting Quotes ##
 - "However, we show that baseline correction can also distort data if unrealistically small pupil sizes are recorded during the baseline period, which can easily occur due to eye blinks, data loss, or other distortions."

@@ -2,7 +2,7 @@
 
 ## Short Summary ##
 A study is presented in which eye-tracking data (more precisely pupil dilation and blink rate) is used to measure CL to better understand program comprehension.
-*A detailed description on how pupil dilation is measured and corrected fro screen brightness is provided.*
+*A detailed description on how pupil dilation is measured and corrected for screen brightness is provided.*
 
 ## Interesting Quotes ##
 - "As our snippets are not uniform in length, each snippet is different in their perceived brightness. Thus, the snippets may influence pupil dilation by their brightness, independent of the change in cognitive load."
@@ -13,6 +13,8 @@ A study is presented in which eye-tracking data (more precisely pupil dilation a
 
 ## Interesting Related Work ##
 - Matthew Anderson, Ricardo Motta, Srinivasan Chandrasekar, and Michael Stokes. 1996. Proposal for a Standard Default Color Space for the Internet—rgb. In Color and Imaging Conference, Vol. 1996. Society for Imaging Science and Technology, 238–245.
+  *-> not relevant*
 - Julie Brisson, Marc Mainville, Dominique Mailloux, Christelle Beaulieu, Josette Serres, and Sylvain Sirois. 2013. Pupil Diameter Measurement Errors as a Function of Gaze Direction in Corneal Reflection Eyetrackers. Behavior Research Methods 45, 4 (2013), 1322–1331.
+  *-> not relevant*
 
 [Full Paper](https://dl.acm.org/doi/10.1145/3216723.3216726) ![[Beyond Gaze.pdf]]

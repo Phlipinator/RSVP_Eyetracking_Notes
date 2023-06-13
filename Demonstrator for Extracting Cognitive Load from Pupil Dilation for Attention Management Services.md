@@ -8,5 +8,6 @@ A demonstrator is built which visualizes pupil dilation and cognitive load in re
 
 ## Interesting Relates Work ##
 - Shai Gabay, Yoni Pertzov, and Avishai Henik. 2011. Orienting of attention, pupil size, and the norepinephrine system. Attention, Perception, & Psychophysics 73, 1 (2011), 123–129.
+  *-> not relevant*
 
 [Full Paper](https://dl.acm.org/doi/10.1145/2968219.2968550) ![[Demonstrator for Extracting Cognitive Load from Pupil Dilation.pdf]]

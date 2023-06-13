@@ -6,6 +6,8 @@ The paper presents an approach where CL estimation through eye tracking is utili
 
 ## Interesting Related Work ##
 - Stuart R Steinhauer, Greg J Siegle, Ruth Condray, and Misha Pless. 2004. Sympathetic and parasympathetic innervation of pupillary dilation during sustained processing. International journal of psychophysiology 52, 1 (2004), 77–86.
+  *-> checked and integrated*
 - Jackson Beatty. 1982. Task-evoked pupillary responses, processing load, and the structure of processing resources. Psychological bulletin 91, 2 (1982), 276.
+  *-> not relevant/too old*
 
 [Full Paper](https://dl.acm.org/doi/10.1145/3524610.3527890) ![[Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.pdf]]

@@ -1,4 +1,4 @@
-#paper
+#paper #feasible #averageOverTraining
 
 ## Short Summary ##
 A study is presented in which the cognitive load is measured using eye tracking metrics "like blink duration, frequency and interval and pupil dilation" while performing eye-typing tasks. The cognitive loads gets altered through task difficulty ("memorizing sentences of varying complexity").
@@ -11,7 +11,7 @@ A study is presented in which the cognitive load is measured using eye tracking 
 - "(...) pupil dilation, in our experiment, did not indicate a difference between easy and difficult sessions."
 
 ## Interesting Related Work ##
-- Pradipta Biswas, Varun Dutt, and Pat Langdon. 2016. Comparing Ocular Parameters for Cognitive Load Measurement in Eye-Gaze-Controlled Interfaces for Automotive and Desktop Computing Environments. International Journal of Human-Computer Interaction (2016). 
-  https://doi.org/10.1080/10447318.2015.1084112
+- Pradipta Biswas, Varun Dutt, and Pat Langdon. 2016. Comparing Ocular Parameters for Cognitive Load Measurement in Eye-Gaze-Controlled Interfaces for Automotive and Desktop Computing Environments. International Journal of Human-Computer Interaction (2016). https://doi.org/10.1080/10447318.2015.1084112
+  *-> not relevant*
 
 [Full Paper](https://dl.acm.org/doi/10.1145/3379155.3391333) ![[Cognitive Load duringEye-typing.pdf]]

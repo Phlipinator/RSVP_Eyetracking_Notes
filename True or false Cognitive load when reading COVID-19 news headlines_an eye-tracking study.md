@@ -1,4 +1,4 @@
-#paper
+#paper #averageOverAll 
 
 ## Short Summary ##
 A study is presented in which participants are presented with different news-headlines regarding the COVID-19 pandemic inside of a fact-checking system. Cognitive load is measured using pupil diameter.

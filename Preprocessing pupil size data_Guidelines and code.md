@@ -1,9 +1,9 @@
-#paper #promising 
+#paper #promising #filteringAndAnalyzing 
 Found through [[Measuring Cognitive Load_Heart-rate Variability and Pupillometry Assessment]]
 
 ## Short Summary ##
 The paper offers a detailed description of all relevant factors that need to be considered when working with pupil dilation as an indicator for CL ("we highlight the most important sources of noise and show how these can be detected"). 
-The authors " provide step-by-step guidelines that will help those interested in pupil size to preprocess their data correctly" and also refer to an open-source MATLAB script.
+*The authors "provide step-by-step guidelines that will help those interested in pupil size to preprocess their data correctly" and also refer to an open-source MATLAB script.*
 
 ## Interesting Quotes ##
 - "This article proposes a filtering pipeline aimed at identifying three types of often occurring invalid pupil size samples"

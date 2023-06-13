@@ -1,4 +1,4 @@
-#paper
+#paper #filteringAndAnalyzing 
 
 ## Short Summary ##
 The paper presents a study in which eye-tracking (including pupil diameter) is used to measure CL in order to adapt game-difficulty in real time. The game used for the study is an emergency simulator, where players have to micro-manage emergency-personnel in different scenarios.
