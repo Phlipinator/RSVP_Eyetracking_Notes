@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study.md",
+                "file": "Search Strings.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study.md",
+                "file": "Search Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study.md",
+                "file": "Search Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study.md"
+                "file": "Search Strings.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "e21e0d87852d95ff",
   "lastOpenFiles": [
+    "True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study.md",
     "Towards an Index of Opportunity_Understanding Changes in Mental Workload during Task Execution.md",
     "The Index of Pupillary Activity_Measuring Cognitive Load vis-à-vis Task Difficulty with Pupil Oscillation.md",
     "The index of cognitive activity_Measuring cognitive workload.md",
@@ -164,7 +165,6 @@
     "Real-Time Feedback Towards Voluntary Pupil Control in Human-Computer Interaction_Enabling Continuous Pupillary Feedback.md",
     "Pupil Dilation Fulfills the Requirements for Dynamic Difficulty Adjustment in Gaming on the Example of Pong.md",
     "Pupillary Response Based Cognitive Workload Measurement under Luminance Changes.md",
-    "True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study.md",
     "Search Strings.md",
     "Pupil Dilation as an Indicator of Cognitive Workload in Human-Computer Interaction.md",
     "Preprocessing pupil size data_Guidelines and code.md",
