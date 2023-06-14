@@ -1,5 +1,5 @@
 #paper #averageOverTraining 
-Found through [[Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures]] 
+Found through [[Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures]] #backwardsSearch
 
 ## Short Summary ##
 The paper performs a study about the sympathetic and parasympathetic system in relation to cognitive load theory using PD.

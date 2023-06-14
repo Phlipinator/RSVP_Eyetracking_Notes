@@ -1,4 +1,4 @@
-#paper 
+#paper #searchString_1
 
 ## Short Summary ##
 The paper presents a study in which the cognitive load of users is measured performing a secondary task during driving. For measurement of CL pupil diameter is used in a measurement called *Index of cognitive activity*.

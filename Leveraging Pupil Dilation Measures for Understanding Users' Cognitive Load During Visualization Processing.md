@@ -1,4 +1,4 @@
-#paper #feasible #averageOverTraining 
+#paper #searchString_1 #feasible #averageOverTraining 
 
 ## Short Summary ##
 The paper presents a study, in which users are shown bar graphs, which get altered for easier understanding using a couple of different techniques. During the experiment the pupil diameter of the users is recorded.

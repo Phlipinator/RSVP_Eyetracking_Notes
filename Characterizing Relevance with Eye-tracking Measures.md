@@ -1,5 +1,5 @@
-#paper #averageOverAll
-Found through [[True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study]]
+#paper #averageOverAll 
+Found through [[True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study]] #backwardsSearch 
 
 ## Short Summary ##
 A study is presented in which texts of different relevance are shown to the user while the cognitive load is measured using eye tracking measurements. The results indicate a correlation between the perceived relevance of the read text and CL.

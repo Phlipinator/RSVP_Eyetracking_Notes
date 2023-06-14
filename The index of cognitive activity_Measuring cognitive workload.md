@@ -1,5 +1,5 @@
 #paper
-Found through [[True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study]]
+Found through [[True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study]] #backwardsSearch
 
 ## Short Summary ##
 The index of cognitive activity (ICA) is presented, which "provides an important estimate of the levels of cognitive effort of the user" based on measurements of the pupil diameter.

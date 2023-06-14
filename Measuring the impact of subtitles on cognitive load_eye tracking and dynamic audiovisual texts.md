@@ -1,5 +1,5 @@
 #paper #feasible #averageOverTraining 
-Found through [[True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study]]
+Found through [[True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study]] #backwardsSearch
 
 ## Short Summary ##
 The paper is testing the hypothesis, that subtitles increase cognitive load by presenting students with recorded academic lectures with or without subtitles while measuring CG (through eye tracking, EEG and self reported measures).
@@ -12,5 +12,6 @@ The paper is testing the hypothesis, that subtitles increase cognitive load by p
 
 ## Interesting Related Work ##
 - Janisse, M.P. 1977. Pupillometry: The Psychology of the Pupillary Response. Washington: Hemisphere Publishing Corporation.
+  *-> not found*
 
 [Full Paper](https://dl.acm.org/doi/abs/10.1145/2509315.2509331) ![[Measuring the impact of subtitles on cognitive load.pdf]]

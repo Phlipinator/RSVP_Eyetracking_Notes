@@ -1,4 +1,4 @@
-#paper 
+#paper #searchString_1
 
 ## Short Summary ##
 The Index of pupillary activity (ICA) is documented and "the algorithm (...) *is* validated with external criteria that are known to be related to cognitive demand, such as task difficulty".
@@ -9,5 +9,6 @@ The Index of pupillary activity (ICA) is documented and "the algorithm (...) *is
 
 ## Interesting Related Work ##
 - Andrew T. Duchowski, Krzysztof Krejtz, Izabela Krejtz, Cezary Biele, Anna Niedzielska, Peter Kiefer, Martin Raubal, and Ioannis Giannopoulos. 2018. The Index of Pupillary Activity. In CHI 2018, Regan Mandryk, Mark Hancock, Mark Perry, and Anna Cox (Eds.). The Association for Computing Machinery, New York, New York, 1–13. https://doi.org/10.1145/3173574.3173856
+  *-> checked and integrated*
 
 [Full Paper](https://dl.acm.org/doi/10.1145/3379156.3391341) ![[One threshold to rule them all.pdf]]

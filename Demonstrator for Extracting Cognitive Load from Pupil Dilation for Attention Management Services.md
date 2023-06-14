@@ -1,4 +1,4 @@
-#paper 
+#paper #searchString_1
 
 ## Short Summary ##
 A demonstrator is built which visualizes pupil dilation and cognitive load in real time. *There is however no information about how the baseline for the pupil dilation is measured, instead a real-world camera measures illumination and the calculation compensates for that value.*

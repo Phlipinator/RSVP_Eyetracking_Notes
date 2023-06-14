@@ -1,5 +1,5 @@
 #paper #averageOverTraining 
-Found through [[Leveraging Pupil Dilation Measures for Understanding Users' Cognitive Load During Visualization Processing]]
+Found through [[Leveraging Pupil Dilation Measures for Understanding Users' Cognitive Load During Visualization Processing]] #backwardsSearch
 
 ## Short Summary ##
 A study is presented that measures CL using PD while users perform different tasks and sub-tasks.
