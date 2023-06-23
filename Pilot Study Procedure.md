@@ -2,9 +2,7 @@
 
 - Explain the study
 	- Verbal or Written
-
 - [Consent form]([www.thomaskosch.com/icg]())
-
 - Demographics
 	- Age
 	- Profession
@@ -17,16 +15,11 @@
 	- Are you using visual aids
 		- Glasses? Contact Lenses?
 	- Are you colorblind?
-
 - Showing RSVP Demo on Phone (English text)
-
 - Show them the [NASA-TLX]([http://interaction-design-group.de/toolbox/wp-content/uploads/2016/05/NASA-TLX.pdf](http://interaction-design-group.de/toolbox/wp-content/uploads/2016/05/NASA-TLX.pdf)) and explain it.
-
 - Calibrating eye tracker
-
 - Text Wall Calibration Scene (Time Start to finish and calculate WPM with Timers)
 	- [NASA-TLX]([http://interaction-design-group.de/toolbox/wp-content/uploads/2016/05/NASA-TLX.pdf](http://interaction-design-group.de/toolbox/wp-content/uploads/2016/05/NASA-TLX.pdf)) afterwards
-
 - Counterbalance conditions [(9 conditions)]([https://cs.uwaterloo.ca/~dmasson/tools/latin_square/](https://cs.uwaterloo.ca/~dmasson/tools/latin_square/))
 	- Perform 9 Tests
 	- After each test, do  [NASA-TLX]([http://interaction-design-group.de/toolbox/wp-content/uploads/2016/05/NASA-TLX.pdf](http://interaction-design-group.de/toolbox/wp-content/uploads/2016/05/NASA-TLX.pdf)) (ask them)

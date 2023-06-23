@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Procedure.md",
+                "file": "Pilot Study Procedure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f19199a68d8e99d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ToDo`s for Prototype 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Procedure.md",
+                "file": "ToDo`s for Prototype 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Procedure.md",
+                "file": "ToDo`s for Prototype 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Procedure.md"
+                "file": "ToDo`s for Prototype 1.md"
               }
             }
           }
@@ -155,14 +167,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "3dd30aba9bcd7ec4",
+  "active": "1f19199a68d8e99d",
   "lastOpenFiles": [
+    "Pilot Study Procedure.md",
+    "ToDo`s for Prototype 1.md",
     "Papers/A Model Relating Pupil Diameter to Mental Workload and Lighting Conditions.md",
     "Papers/Sympathetic and parasympathetic innervation of pupillary dilation during sustained processing.md",
     "Papers/Safe and sensible preprocessing and baseline correction of pupil-size data.md",
     "Search Strings.md",
     "Papers/The index of cognitive activity_Measuring cognitive workload.md",
-    "Study Procedure.md",
     "Papers",
     "Papers/Characterizing Relevance with Eye-tracking Measures.md",
     "Papers/True or false Cognitive load when reading COVID-19 news headlines_an eye-tracking study.md",
@@ -183,7 +196,6 @@
     "Papers/Eye tracking cognitive load using pupil diameter and microsaccades with fixed gaze.md",
     "Papers/Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md",
     "Papers/Discriminating the Relevance of Web Search Results with Measures of Pupil Size.md",
-    "Papers/Demonstrator for Extracting Cognitive Load from Pupil Dilation for Attention Management Services.md",
     "_Assets/Real-time feedback towards voluntary pupil control in human-computer interaction.pdf",
     "_Assets/A Model Relating Pupil Diameter.pdf",
     "_Assets/Nicht bestätigt 576206.crdownload",
