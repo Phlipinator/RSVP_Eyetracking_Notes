@@ -11,14 +11,6 @@
             "id": "e21e0d87852d95ff",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3dd30aba9bcd7ec4",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Pilot Study Procedure.md",
@@ -39,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDo`s for Prototype 1.md",
+                "file": "Pilot Study Procedure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ToDo`s for Prototype 1.md",
+                "file": "Pilot Study Procedure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ToDo`s for Prototype 1.md"
+                "file": "Pilot Study Procedure.md"
               }
             }
           }
@@ -167,14 +158,20 @@
       "templates:Insert template": false
     }
   },
-  "active": "1f19199a68d8e99d",
+  "active": "e21e0d87852d95ff",
   "lastOpenFiles": [
+    "www.thomaskosch.com/icg.md",
     "Pilot Study Procedure.md",
+    "_Assets/NASA-TLX GERMAN.pdf",
+    "_Assets/Nicht bestätigt 138782.crdownload",
+    "Search Strings.md",
     "ToDo`s for Prototype 1.md",
+    "www.thomaskosch.com",
+    "[www.thomaskosch.com/icg]().md",
+    "[www.thomaskosch.com",
     "Papers/A Model Relating Pupil Diameter to Mental Workload and Lighting Conditions.md",
     "Papers/Sympathetic and parasympathetic innervation of pupillary dilation during sustained processing.md",
     "Papers/Safe and sensible preprocessing and baseline correction of pupil-size data.md",
-    "Search Strings.md",
     "Papers/The index of cognitive activity_Measuring cognitive workload.md",
     "Papers",
     "Papers/Characterizing Relevance with Eye-tracking Measures.md",
@@ -193,17 +190,10 @@
     "Papers/Measuring Cognitive Load_Heart-rate Variability and Pupillometry Assessment.md",
     "Papers/Measuring Cognitive Load using Eye Tracking Technology in Visual Computing.md",
     "Papers/Leveraging Pupil Dilation Measures for Understanding Users' Cognitive Load During Visualization Processing.md",
-    "Papers/Eye tracking cognitive load using pupil diameter and microsaccades with fixed gaze.md",
-    "Papers/Estimating Developers’ Cognitive Load at a Fine-grained Level Using Eye-tracking Measures.md",
-    "Papers/Discriminating the Relevance of Web Search Results with Measures of Pupil Size.md",
     "_Assets/Real-time feedback towards voluntary pupil control in human-computer interaction.pdf",
     "_Assets/A Model Relating Pupil Diameter.pdf",
     "_Assets/Nicht bestätigt 576206.crdownload",
     "_Assets/Towards an Index of Opportunity.pdf",
-    "_Assets/Nicht bestätigt 502719.crdownload",
-    "_Assets/Sympathetic and parasympathetic innervation of pupillary dilation.pdf",
-    "_Assets/Nicht bestätigt 667724.crdownload",
-    "_Assets/Pupillary Response Based Cognitive Workload.pdf",
-    "_Assets/Nicht bestätigt 136843.crdownload"
+    "_Assets/Nicht bestätigt 502719.crdownload"
   ]
 }
