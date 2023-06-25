@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pilot Study Procedure.md",
+                "file": "Papers/Cognitive Load during Eye-typing.md",
                 "mode": "preview",
                 "source": false
               }
@@ -23,11 +23,9 @@
             "id": "1f19199a68d8e99d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ToDo`s for Prototype 1.md",
-                "mode": "source",
-                "source": false
+                "file": "_Assets/NASA-TLX GERMAN.pdf"
               }
             }
           }
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pilot Study Procedure.md",
+                "file": "Papers/Cognitive Load during Eye-typing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pilot Study Procedure.md",
+                "file": "Papers/Cognitive Load during Eye-typing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pilot Study Procedure.md"
+                "file": "Papers/Cognitive Load during Eye-typing.md"
               }
             }
           }
@@ -160,12 +158,15 @@
   },
   "active": "e21e0d87852d95ff",
   "lastOpenFiles": [
-    "www.thomaskosch.com/icg.md",
     "Pilot Study Procedure.md",
     "_Assets/NASA-TLX GERMAN.pdf",
+    "_Assets/Papers/A Model Relating Pupil Diameter.pdf",
+    "_Assets/Papers",
+    "_Assets/RSVP Eyetracking Pilot Studie - Questionaire.pdf",
+    "ToDo`s for Prototype 1.md",
+    "www.thomaskosch.com/icg.md",
     "_Assets/Nicht bestätigt 138782.crdownload",
     "Search Strings.md",
-    "ToDo`s for Prototype 1.md",
     "www.thomaskosch.com",
     "[www.thomaskosch.com/icg]().md",
     "[www.thomaskosch.com",
@@ -190,10 +191,7 @@
     "Papers/Measuring Cognitive Load_Heart-rate Variability and Pupillometry Assessment.md",
     "Papers/Measuring Cognitive Load using Eye Tracking Technology in Visual Computing.md",
     "Papers/Leveraging Pupil Dilation Measures for Understanding Users' Cognitive Load During Visualization Processing.md",
-    "_Assets/Real-time feedback towards voluntary pupil control in human-computer interaction.pdf",
-    "_Assets/A Model Relating Pupil Diameter.pdf",
-    "_Assets/Nicht bestätigt 576206.crdownload",
-    "_Assets/Towards an Index of Opportunity.pdf",
-    "_Assets/Nicht bestätigt 502719.crdownload"
+    "_Assets/Papers/Real-time feedback towards voluntary pupil control in human-computer interaction.pdf",
+    "_Assets/Nicht bestätigt 576206.crdownload"
   ]
 }
