@@ -1,6 +1,7 @@
 {
   "spellcheckLanguages": [
-    "en"
+    "en",
+    "de"
   ],
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "_Assets"

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pilot Study Procedure.md",
-                "mode": "preview",
+                "file": "Pilot Study Procedure Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "693af25680d948a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pilot Study StepByStep.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pilot Study Procedure.md",
+                "file": "Pilot Study StepByStep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pilot Study Procedure.md",
+                "file": "Pilot Study StepByStep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pilot Study Procedure.md"
+                "file": "Pilot Study StepByStep.md"
               }
             }
           }
@@ -146,18 +159,19 @@
       "templates:Insert template": false
     }
   },
-  "active": "e21e0d87852d95ff",
+  "active": "693af25680d948a1",
   "lastOpenFiles": [
+    "Pilot Study Procedure Outline.md",
+    "Pilot Study StepByStep.md",
+    "ToDo`s for Prototype 1.md",
     "_Assets/3Conditions.png",
     "_Assets/9Conditions.png",
     "_Assets/Consent Form Pilot Study.pdf",
     "_Assets/NASA-TLX GERMAN.pdf",
-    "Pilot Study Procedure.md",
     "Papers/Cognitive Load during Eye-typing.md",
     "_Assets/Papers/A Model Relating Pupil Diameter.pdf",
     "_Assets/Papers",
     "_Assets/RSVP Eyetracking Pilot Studie - Questionaire.pdf",
-    "ToDo`s for Prototype 1.md",
     "www.thomaskosch.com/icg.md",
     "_Assets/Nicht bestätigt 138782.crdownload",
     "Search Strings.md",
