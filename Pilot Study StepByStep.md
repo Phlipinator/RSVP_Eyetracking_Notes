@@ -28,3 +28,5 @@ NASA-TLX Fragebogen mündlich abfragen.
 ### 4-12 RSVP ###
 ![[9Conditions.png]]
 *WICHTIG: Participant_ID richtig eintragen!*
+
+NASA-TLX Fragebogen mündlich abfragen.
