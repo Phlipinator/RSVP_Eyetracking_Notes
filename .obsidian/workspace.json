@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e21e0d87852d95ff",
+            "id": "ad722f9ad5047d88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pilot Study Procedure Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "693af25680d948a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pilot Study StepByStep.md",
+                "file": "Recruitment Message MainStudy_1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pilot Study StepByStep.md",
+                "file": "Recruitment Message MainStudy_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pilot Study StepByStep.md",
+                "file": "Recruitment Message MainStudy_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pilot Study StepByStep.md"
+                "file": "Recruitment Message MainStudy_1.md"
               }
             }
           }
@@ -159,10 +146,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "6d50a1e7bdaa8492",
+  "active": "ad722f9ad5047d88",
   "lastOpenFiles": [
-    "Pilot Study Procedure Outline.md",
     "Pilot Study StepByStep.md",
+    "Recruitment Message MainStudy_1.md",
+    "Pilot Study Procedure Outline.md",
     "ToDo`s for Prototype 1.md",
     "_Assets/3Conditions.png",
     "_Assets/9Conditions.png",
@@ -197,7 +185,6 @@
     "Papers/Measuring the impact of subtitles on cognitive load_eye tracking and dynamic audiovisual texts.md",
     "Papers/Measuring linguistically-induced cognitive load during driving using the ConTRe task.md",
     "Papers/Measuring Cognitive Load_Heart-rate Variability and Pupillometry Assessment.md",
-    "Papers/Measuring Cognitive Load using Eye Tracking Technology in Visual Computing.md",
     "_Assets/Papers/Real-time feedback towards voluntary pupil control in human-computer interaction.pdf"
   ]
 }
