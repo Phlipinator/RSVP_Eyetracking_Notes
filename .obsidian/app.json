@@ -4,5 +4,11 @@
     "de"
   ],
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "_Assets"
+  "attachmentFolderPath": "_Assets",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
