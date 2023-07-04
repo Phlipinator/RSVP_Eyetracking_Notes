@@ -13,7 +13,7 @@ b warm.
 c kalt. 
 d manchmal warm und manchmal kalt.
 
-### Die Menschen der Pazifikinseln sprechen ###
+### 3. Die Menschen der Pazifikinseln sprechen ###
 a dieselbe Sprache. 
 b zwei verschiedene Sprachen. 
 *c viele verschiedene Sprachen.* 
